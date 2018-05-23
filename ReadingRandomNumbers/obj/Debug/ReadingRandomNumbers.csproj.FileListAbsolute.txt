@@ -1,0 +1,10 @@
+C:\Users\pavan\source\repos\ReadingRandomNumbers\ReadingRandomNumbers\bin\Debug\ReadingRandomNumbers.exe.config
+C:\Users\pavan\source\repos\ReadingRandomNumbers\ReadingRandomNumbers\bin\Debug\ReadingRandomNumbers.exe
+C:\Users\pavan\source\repos\ReadingRandomNumbers\ReadingRandomNumbers\bin\Debug\ReadingRandomNumbers.pdb
+C:\Users\pavan\source\repos\ReadingRandomNumbers\ReadingRandomNumbers\obj\Debug\ReadingRandomNumbers.csprojAssemblyReference.cache
+C:\Users\pavan\source\repos\ReadingRandomNumbers\ReadingRandomNumbers\obj\Debug\ReadingRandomNumbers.Form1.resources
+C:\Users\pavan\source\repos\ReadingRandomNumbers\ReadingRandomNumbers\obj\Debug\ReadingRandomNumbers.Properties.Resources.resources
+C:\Users\pavan\source\repos\ReadingRandomNumbers\ReadingRandomNumbers\obj\Debug\ReadingRandomNumbers.csproj.GenerateResource.cache
+C:\Users\pavan\source\repos\ReadingRandomNumbers\ReadingRandomNumbers\obj\Debug\ReadingRandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\ReadingRandomNumbers\ReadingRandomNumbers\obj\Debug\ReadingRandomNumbers.exe
+C:\Users\pavan\source\repos\ReadingRandomNumbers\ReadingRandomNumbers\obj\Debug\ReadingRandomNumbers.pdb
